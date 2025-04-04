@@ -1,0 +1,25 @@
+.signup-container{
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signup-body{
+    width: 100%;
+    max-width: 500px; /* Set a maximum width for the form */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(176, 32, 32, 0.5);
+}
+
+.signup-btn{
+    width: 20vh;
+    background-color: blueviolet;
+    color: white;
+}
+
+.login-link {
+    text-decoration: none;
+}

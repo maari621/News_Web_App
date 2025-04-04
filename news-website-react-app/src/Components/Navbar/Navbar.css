@@ -1,0 +1,30 @@
+.navbar{
+  background-color: white;
+  padding: 0vh 40vh;
+  border-bottom: 0.1px solid black;
+}
+.navbar-brand{
+    font-family: "Bebas Neue", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+/* Navbar.css */
+.sign-btn {
+    background-color: #ff0000;
+    border: none;
+    padding: 2vh 2vh;
+    color: white;
+    border-radius: 5px;
+    transition: background-color 0.3s, transform 0.2s;
+  }
+  
+  .sign-btn:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+    cursor: pointer;
+  }
+  
+.search-form{
+  padding: 2vh;
+} 
